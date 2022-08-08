@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @joseservin
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning kali linux commands
-- 💞️ I’m looking to collaborate on RTOS and linux projects
+
